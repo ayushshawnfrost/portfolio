@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.705e2f94.css",
+    "main.js": "/portfolio/static/js/main.f20b7340.js",
+    "static/media/pot.jpg": "/portfolio/static/media/pot.05ee0690cdaae43e61c2.jpg",
+    "static/media/1.png": "/portfolio/static/media/1.7020490e674b9de0f123.png",
+    "static/media/medium.png": "/portfolio/static/media/medium.a1e9d8a37f5cd05036c6.png",
+    "static/media/3.PNG": "/portfolio/static/media/3.b436bc5460b6127b252e.PNG",
+    "static/media/2.png": "/portfolio/static/media/2.71ad178a4c5f190e71a7.png",
+    "static/media/brush.png": "/portfolio/static/media/brush.85c9bab5ba2d7dcae1e3.png",
+    "static/media/grenade.svg": "/portfolio/static/media/grenade.0b01528d90eaf3e971e6037523c64650.svg",
+    "static/media/rifle.svg": "/portfolio/static/media/rifle.51ac1cf0f3a42d0e25ed682aa86e8195.svg",
+    "static/media/pistol.svg": "/portfolio/static/media/pistol.a76fc8cd927071b4aa47f1ecab34b366.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/close-icon.svg": "/portfolio/static/media/close-icon.36a1df96f812b5f4c12f817f90a904c6.svg",
+    "static/media/menu-icon.svg": "/portfolio/static/media/menu-icon.9cbfc3090b4b0aec575128df8ede3633.svg",
+    "main.705e2f94.css.map": "/portfolio/static/css/main.705e2f94.css.map",
+    "main.f20b7340.js.map": "/portfolio/static/js/main.f20b7340.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.705e2f94.css",
+    "static/js/main.f20b7340.js"
+  ]
+}
